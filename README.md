@@ -1,6 +1,6 @@
 # TensorFlow in Practice Coursera Specialization
 
-<p align="center"><img width="40%" src="image/deeplearning.ai logo" /></p>
+<p align="center"><img width="40%" src="image/deeplearning.ai logo.png" /></p>
 
 ----------------------------------------------------------------------------------------
 
