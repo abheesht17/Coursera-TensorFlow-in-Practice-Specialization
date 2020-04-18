@@ -7,7 +7,7 @@
 This GitHub repo contains the solutions to the assignments of the four courses in the above mentioned specialization taught by Laurence Moroney. The assignments have been included as .ipynb notebooks, as required by the four courses. 
 
 Link to the TensorFlow in Practice Specialization:
-# [Tensorflow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+[Tensorflow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 
 
 
